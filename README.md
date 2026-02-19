@@ -9,7 +9,7 @@ Generate a polished, static GitHub profile site from any user or organization â€
 
 ---
 
-## Quick start (fork & deploy)
+## Quick start 
 
 ### 1. Fork & deploy (no local setup)
 
